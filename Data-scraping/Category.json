@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "62b899d644a9b10198fd117a",
+        "name": "Collector",
+        "description": "Collector DAOs allow for artists to own their art, such as NFTs. Other DAOs in this category allow members to pool together funds to purchase collectibles for their respective communities."
+    },
+    {
+        "_id": "62b89c0e44a9b10198fd1189",
+        "name": "DAO Tools",
+        "description": "DAO tools are used to assist DAOs with organizing, managing funds, voting, aligning incentives, and rewarding contributors. One example is Gnosis Safe, an organization that assists with digital asset management on Ethereum."
+    },
+    {
+        "_id": "62b89bee44a9b10198fd1188",
+        "name": "DeFi",
+        "description": "These DAOs are centered around DeFi, or decentralized finance. DeFi uses crypto and blockchain technology for managing financial transactions in order to democratize finance and remove traditional financial intermediaries. Governance is a crucial aspect of these DAOs. Some examples include Akropolis and 1inch Network."
+    },
+    {
+        "_id": "62b89afd44a9b10198fd1181",
+        "name": "Entertainment",
+        "description": "Entertainment DAOs bring creators, artists, and individuals together for creative, decentralized fun. Community members can vote on creative decisions such as designing 3D NFT Flufs in Flufworld or deciding on how stories unfold in Jenkins the Valet."
+    },
+    {
+        "_id": "62b89b6844a9b10198fd1184",
+        "name": "Gaming",
+        "description": "Blockchain technology has revolutionized the gaming industry as well. Gaming guilds are taking the form of gaming DAOs, allowing members to collectively obtain, manage, use, and monetize assets from blockchain games, a popular one being Axie Infinity. These DAOs offer a platform to welcome and support new gamers as well as provide assets to a member who requires them to start playing on-chain games. Gaming DAOs make play-to-earn games easier to access. Some examples include Collar Informer, Gods Unchained, and Riot Racers."
+    },
+    {
+        "_id": "62b89ad644a9b10198fd1180",
+        "name": "Grant",
+        "description": "Community members in Grant DAOs can donate funds and vote on where these funds are allocated, such as supporting innovative DeFi projects."
+    },
+    {
+        "_id": "62b89a8244a9b10198fd117e",
+        "name": "Investment",
+        "description": "Investment DAOs allow community members to pool together funds for DeFi operations and investments. Some examples include DARMA Capital and Harvest Finance."
+    },
+    {
+        "_id": "62b89b2144a9b10198fd1182",
+        "name": "Media",
+        "description": "Media DAOs decentralize news and works, allowing members to consume content driven by their community’s interest, without involving advertisers."
+    },
+    {
+        "_id": "62b89b8944a9b10198fd1185",
+        "name": "Metaverse",
+        "description": "These are DAOs generally centered around using and investing in the Metaverse, such as investing in and owning digital land in these virtual worlds. One example includes CabinDAO, a DAO focused on building a decentralized city for independent online creators."
+    },
+    {
+        "_id": "62b899f744a9b10198fd117b",
+        "name": "Operating Systems",
+        "description": "These DAOs are standalone platforms that organizations can use to build their own DAO. Operating system DAOs offer framework services, smart contract services, financial tools, and more."
+    },
+    {
+        "_id": "62b899ae44a9b10198fd1179",
+        "name": "Protocol",
+        "description": "Protocol DAOs are centered around governing a decentralized protocol such as decentralized applications, decentralized exchanges, etc. A notable example is Yearn Finance."
+    },
+    {
+        "_id": "62b89ba944a9b10198fd1186",
+        "name": "SPAD",
+        "description": "SPAD is an acronym for Single Purpose Acquisition DAO. These organizations usually have one sole purpose or goal that the community is centered around achieving. One notable example is ConstitutionDAO, a DAO dedicated to purchasing an original copy of the US Constitution. Another example is Krause House, a community of basketball fans dedicated to purchasing and managing an NBA team as a DAO."
+    },
+    {
+        "_id": "62b89a5844a9b10198fd117d",
+        "name": "Service",
+        "description": "Service DAOs are decentralized communities serving as crypto-native talent/work agencies. These DAOs offer services such as legal services, marketing services, etc. Through Service DAOs, individuals can contract workers in sectors such as development, treasury, management, marketing, governance, and more. These workers are typically paid in tokens."
+    },
+    {
+        "_id": "62b89b4544a9b10198fd1183",
+        "name": "Social",
+        "description": "Unlike other DAOs, Social DAOs are collaborative platforms for social networking and aim towards bringing together members with common interests and shared values."
+    },
+    {
+        "_id": "62b89bcd44a9b10198fd1187",
+        "name": "Social Impact",
+        "description": "Social impact DAOs are centered around a certain social issue, such as homelessness, climate change, civil rights, etc. Community members are able to vote on the allocation of funds to different charities related to the DAO’s mission. One example is Klima DAO, a DAO in which members can drive climate action and earn rewards."
+    },
+    {
+        "_id": "62b89aa944a9b10198fd117f",
+        "name": "Venture Capital",
+        "description": "Unlike Investment DAOs, these DAOs focus on investing in early-stage organizations or startups, as well as emerging DeFi projects and technologies. Notable examples include Outlier Ventures and Audacity Fund."
+    }
+]
