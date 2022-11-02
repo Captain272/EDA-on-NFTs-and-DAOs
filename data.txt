@@ -1,0 +1,22 @@
+dummy={
+    "age":list(range(10, 100)),
+    "gender":['male', 'female','other'],
+    
+    "location":{
+        "US":['NewYorkCity','Los Angeles','Chicago','Houston','Phoenix','Philadelphia','San Antonio','Dallas'],
+        "UK":['London','Manchester','Birmingham-Wolverhampton','Leeds-Bradford','Glasgow','Southampton-Portsmouth','Liverpool','Newcastle'],
+        "India":['Mumbai','Delhi','Bangalore','Kolkata','Chennai','Ahmedabad','Hyderabad','Pune']
+    },
+    
+    "income":list(range(360000, 6000000, 50000)),
+    
+    "blockchains":["Bitcoin", "Ethereum", "Solana", "Polygon", "Flow", "Cardano", "Avalanche", "Binance Smart Chain",'Ripple'],
+    
+    "interests":{
+        'Music':['Rock','Jazz','ElectronicDanceMusic','Dubstep','Techno','RhythmandBlues(R&B)','Country','Pop'],
+        'Sports':['Soccer/football','Badminton','Field Hockey','Volleyball','Basketball','Tennis','Cricket','Table Tennis'], 
+        'Books':['Mysteries','Romance','Thrillers','Science Fiction','Fantasy','Historical Fiction'],
+        'Travel':['The Weekend Break','The Package Holiday','The Group Tour','The Caravan/RV Road Trip','Volunteer Travel','Long Term Slow Travel','The Gap Year','Visiting Friends','Event Travel','Business Travel'],
+        'Finance':['Banking','Professional Advisory','Wealth Management','Mutual Funds','Insurance','Stock Market','Treasury/Debt Instruments','Tax/Audit Consulting']
+    }
+}
