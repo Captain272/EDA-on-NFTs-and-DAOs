@@ -42,12 +42,12 @@ if len(books):
     content+= " " + "books"
 
 
-dao_data = pd.read_csv("dao_cleaned_data.csv", usecols=['Dao_title', 'categories','blockchain', 'followers'])
+dao_data = pd.read_csv("dao-recommender-app/dao_cleaned_data.csv", usecols=['Dao_title', 'categories','blockchain', 'followers'])
 
 # st.write(content)
 if st.button("Set"):
-    vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
-    knn = pickle.load(open("knn.pkl", "rb"))
+    vectorizer = pickle.load(open("dao-recommender-app/vectorizer.pkl", "rb"))
+    knn = pickle.load(open("dao-recommender-app/knn.pkl", "rb"))
 
     _, idx = knn.kneighbors(vectorizer.transform([content]))
 
