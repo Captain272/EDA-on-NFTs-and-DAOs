@@ -31,10 +31,10 @@ such as:
 - price
 
 ## Main Page
-![Main Page](./poc/page-1.png)
+![Main Page](./poc/page_1.png)
 ## Profile Page
 ![Profile Page](./poc/page-2.png)
 ## Reccomendations
 ![Reccomendations](./poc/page-3.png)
 ## Customized Main Page
-![Customized Main Page](./poc/page-2.png)
+![Customized Main Page](./poc/page-5.png)
